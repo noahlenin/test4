@@ -19,7 +19,7 @@ import file_Utility.WebDriverUtility;
 
 public class Base__Class {
 	
-/*	public WebDriver driver;
+	public WebDriver driver;
 	DataBaseUtility dbLib=new DataBaseUtility();
 	ExcelFileUtility  exLib=new ExcelFileUtility();
 	JsonUtility jLib=new JsonUtility();
@@ -81,5 +81,5 @@ public class Base__Class {
 		System.out.println("DB connection closed");
 		dbLib.closeconnection();
 	}
-*/
+
 }
